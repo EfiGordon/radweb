@@ -39,5 +39,5 @@ export class Products extends IdEntity {
     }
 } 
 ```
-> note that in javascript dates, the months are from 0 to 12, that is why `new Date(9999,11,31)` is the end of the year 9999
+> note that in javascript dates, the months are from 0 to 11, that is why `new Date(9999,11,31)` is the end of the year 9999
 
