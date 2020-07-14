@@ -10,6 +10,8 @@ run the following command:
 ng generate component --skipTests=true categories 
 ```
 
+>Pro Tip: You can type a shorter command: ng g c -S categories
+
 ## Step 2, add the Categories Route
 in the `app-routing.module.ts` file:
 ```csdiff
